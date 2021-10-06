@@ -1,6 +1,6 @@
 # Webpack starter configurado
 
-Este es el macho o proyecto inicial para crear proyectos webpack
+Este es el machote o proyecto inicial para crear proyectos webpack
 
 ### Notas
 Para usar este repositorio ejecutar el comando de ```npm install```
